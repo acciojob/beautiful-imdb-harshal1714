@@ -1,2 +1,14 @@
+.moveDetails{
+	position:relative;
+	top:0px;
+	width:100%;
+	text-align:center;
+	font-size:15px;
+}
 
+.moviePic{
+	height:300px;
+		width:400px;
+	opacity:0.5px;
+}	
 /* Your CSS Code here. */
